@@ -1,0 +1,9 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="EPG N/A" tvg-name="RHM" tvg-logo="https://i.pinimg.com/originals/d2/b3/5c/d2b35c7bbca4d3fa60c205e53571ea74.png" group-title="ហ៊ឹន លក្ស្មី", RHM
+http://111.92.240.134:1934/rhm_hdtv/smil:RHMHDTV.smil/chunklist_w91659462_b1800000_sleng.m3u8
+
+#EXTINF: -1 tvg-id="EPG N/A" tvg-name="HM" tvg-logo="https://bongsrey.sgp1.cdn.digitaloceanspaces.com/library/566/images/5e8c382ce0ba0.png" group-title="ប៉ុស្ត៍ខ្មែរ", HM
+http://111.92.240.134:1934/hm_hdtv/smil:HMHDTV.smil/chunklist_w243905517_b1800000_sleng.m3u8
+
+#EXTINF: -1 tvg-id="EPG N/A" tvg-name="TVK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="ប៉ុស្ត៍ខ្មែរ", TVK
+https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
